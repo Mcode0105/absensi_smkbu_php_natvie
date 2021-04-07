@@ -1,0 +1,15 @@
+
+ <!DOCTYPE html>
+<html>
+<head>
+	<title>data kehadiran guru</title>
+</head>
+<body>
+<h2 style="text-align: left;" >data kehadiran guru</h2>
+<h2 style="text-align: left;" >SMK Full Day Bustanul Ulum Bulugading</h2>
+
+dicetak pada : <br />
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function hari() in C:\xampp\htdocs\smkbu\admin\export-absen.php:23
+Stack trace:
+#0 {main}
+  thrown in <b>C:\xampp\htdocs\smkbu\admin\export-absen.php</b> on line <b>23</b><br />

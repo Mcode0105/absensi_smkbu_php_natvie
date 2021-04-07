@@ -1,0 +1,41 @@
+
+ <!DOCTYPE html>
+<html>
+<head>
+	<title>data kehadiran guru</title>
+</head>
+<body>
+<h2 style="text-align: left;" >data kehadiran guru</h2>
+<h2 style="text-align: left;" >SMK Full Day Bustanul Ulum Bulugading</h2>
+
+dicetak pada : jumat,24-01-2020<br>
+nama         : abdul munif
+<table border="1">
+	<tr>
+		<th>No</th>
+		<th>tanggal</th>
+         <th>waktu</th>
+          <th>Bulan</th>
+         <th>Keterangan jam ke - </th>
+	</tr>
+		<tr>
+		<td>1</td>
+		<td>jumat,24-2020</td>
+		<td>15:37:03</td>
+			<td>Januari</td>
+		<td></td>
+	
+	</tr>
+		<tr>
+		<td>2</td>
+		<td>jumat,24-2020</td>
+		<td>15:39:04</td>
+			<td>Januari</td>
+		<td>1</td>
+	
+	</tr>
+	
+</table>
+
+</body>
+</html>

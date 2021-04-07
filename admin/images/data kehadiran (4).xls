@@ -1,0 +1,85 @@
+
+
+
+ <!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<title>data kehadiran guru</title>
+
+</head>
+
+<body>
+
+
+<h2 style="text-align: left;" >data kehadiran guru</h2>
+
+<h2 style="text-align: left;" >SMK Full Day Bustanul Ulum Bulugading</h2>
+
+
+
+dicetak pada : Sabtu,01-02-2020<br>
+
+nama         : admin
+
+
+<table border="1">
+
+	<tr>
+
+						  <th>No</th>
+
+                          <th>tanggal</th>
+
+
+
+                          <th>bulan</th>
+
+                          <th>Jam Ke - </th>
+
+                          <th>Waktu</th>
+
+
+                          <th>struktural</th>
+                          <th>Status</th>
+
+                         
+
+	</tr>
+
+	
+	<tr>
+
+						  <td>1 </td>
+
+                          <td>Sabtu,01-2020 </td>
+
+                          <td>Februari </td>
+
+                          <td>I </td>
+
+                          <td>05:48:31 </td>
+                          <td>kepalalab </td>
+
+
+                          <td>HADIR </td>
+
+                      
+
+	
+
+	</tr>
+
+	
+
+
+</table>
+
+
+
+</body>
+
+</html>
+
